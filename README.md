@@ -1,6 +1,20 @@
-<a href="[https://www.example.com](http://mannyjammy.co.uk/)"> <!-- replace with your desired link -->
-  <img src="[https://www.example.com/banner-image.jpg](http://mannyjammy.co.uk/)" alt="Banner Image" /> replace with your desired source -->
-</a>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+  <div class="banner-container">
+    <a href="https://github.com/originlhibrid/Pradeep-Palai/blob/main/giphy%20(1).gif"> <!-- replace with your desired link -->
+      <img src="https://github.com/originlhibrid/Pradeep-Palai/blob/main/giphy%20(1).gif" alt="Banner Image" /> <!-- replace with your desired source -->
+    </a>
+  </div>
+</body>
+</html>
+
+
+
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pradeep Palai
 =====================================================================================================================================
