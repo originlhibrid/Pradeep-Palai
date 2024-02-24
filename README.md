@@ -1,3 +1,7 @@
+<a href="[https://www.example.com](http://mannyjammy.co.uk/)"> <!-- replace with your desired link -->
+  <img src="[https://www.example.com/banner-image.jpg](http://mannyjammy.co.uk/)" alt="Banner Image" /> replace with your desired source -->
+</a>
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pradeep Palai
 =====================================================================================================================================
 
